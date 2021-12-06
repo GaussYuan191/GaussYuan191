@@ -1,6 +1,7 @@
 ## Hello GitHub Fans 👋
 ![Mail Badge](https://img.shields.io/badge/-1915059302@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1915059302@qq.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=GaussYuan191.readme)
+![](http://antzuhl.cn:4000/get/@GaussYuan191.readme)
 ---
 ### I'm code_yuan
 
