@@ -12,7 +12,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=GaussYuan191&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### 关于我
-- [技术笔记](http://yuangauss.xyz/)
+- [技术笔记](http://gaussyuan.work/)
 
 
 
